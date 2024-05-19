@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import {Col, Container, Row} from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
 import Techstack from "./Techstack";
@@ -38,17 +38,17 @@ function About() {
           Professional <strong className="purple">Skillset </strong>
         </h1>
 
-        <Techstack />
+                <Techstack/>
 
-        <h1 className="project-heading">
-          <strong className="purple">Tools</strong> I use
-        </h1>
-        <Toolstack />
+                <h1 className="project-heading">
+                    <strong className="purple">Tools</strong> I use
+                </h1>
+                <Toolstack/>
 
-        <Github />
-      </Container>
-    </Container>
-  );
+                <Github/>
+            </Container>
+        </Container>
+    );
 }
 
 export default About;

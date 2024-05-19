@@ -549,6 +549,13 @@ button:focus {
   background-image: var(--section-background-color) !important;
   color: white !important;
 }
+.professional-experience-section {
+  position: relative !important;
+  padding-top: 150px !important;
+  padding-bottom: 30px !important;
+  background-image: var(--section-background-color) !important;
+  color: white !important;
+}
 
 .tech-icons {
   font-size: 4.5em !important;
