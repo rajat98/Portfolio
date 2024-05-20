@@ -15,14 +15,6 @@ function AboutCard() {
                         Information Technology from COEP.
                         <br/>
                         <br/>
-                        Professional Experience:
-                        <ul>
-                            <li>SDE2 at Urban Company
-                            </li>
-                            <li>SDE1 at OYO Rooms</li>
-                            <li>SDE Intern at Siemens PLM Software
-                            </li>
-                        </ul>
                         <br/>
                         Apart from coding, some other activities that I love to do!
                     </p>

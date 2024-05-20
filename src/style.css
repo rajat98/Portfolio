@@ -605,6 +605,31 @@ button:focus {
     padding-top: 0 !important;
   }
 }
+
+.custom-tech-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Ensure the Col takes the full height */
+}
+
+.tech-icon-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* Align text at the bottom */
+  align-items: center; /* Center the content horizontally */
+  height: 100%;
+}
+
+.tech-icon-text {
+  font-size: 0.8rem; /* Adjust this value to make the text smaller */
+  margin-top: 4px; /* Space between icon and text */
+}
+
+.tech-icon {
+  font-size: 5rem; /* Customize the size of the Docker icon if needed */
+}
+
 /* --------- */
 /* Resume */
 /* --------- */
