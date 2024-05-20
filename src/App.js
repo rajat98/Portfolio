@@ -17,6 +17,7 @@ import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import ProfessionalExperience from "./components/ProfessionalExperience/ProfessionalExperience";
+import AcademicBackground from "./components/AcademicBackground/AcademicBackground";
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -40,6 +41,8 @@ function App() {
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/ProfessionalExperience" element={<ProfessionalExperience />} />
+          <Route path="/AcademicBackground" element={<AcademicBackground />} />
+
           <Route path="/resume" element={<Resume />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>

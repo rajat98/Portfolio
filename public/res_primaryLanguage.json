@@ -116,26 +116,23 @@
       {
         "company": "Arizona State University",
         "org_url": "https://www.asu.edu/",
-        "title": "Master of Science, Software Engineering",
+        "title": "Master of Science, Computer Science",
         "location": "Tempe, AZ, USA",
-        "years": "Aug '22 - May '24",
+        "years": "Aug '23 - May '25",
         "mainTech": [
-          "GPA: 3.87/4.0"
+          "GPA: 4.0/4.0"
         ],
         "technologies": [
-          "Adv. Data Structures & Algo",
-          "Software Specs & Reqs",
-          "Agility",
-          "Verification",
-          "Validation",
-          "Processes", 
-          "HCI"
+          "Distributed Systems",
+          "Cloud Computing",
+          "Data Visualisations",
+          "Multimedia and Web Databases"
         ],
         "logo_url": "images/logos/asu.png",
         "gpa": "3.87",
         "gpaMax": "4.0",
         "description": "Advanced my expertise in software engineering with a focus on practical and theoretical aspects of the software development life cycle, culminating in a transformative educational experience that honed my technical, collaborative and problem-solving skills.",
-        "relevantCourses": ["Adv. Data Structures & Algorithms", "Intro Human Computer Interaction", "Software Requirements & Specifications", "Software Agility", "Software Verification, Validation & Testing", "Programming Paradigms", "Software Capstone Project", "Data Science for SE"],
+        "relevantCourses": ["Distributed Systems", "Cloud Computing", "Data Visualisations", "Multimedia and Web Databases"],
         "highlights": [
           {
             "date": "2024",
@@ -152,29 +149,28 @@
         ]
       },
       {
-        "company": "PES University",
-        "title": "Bachelor of Technology, Computer Science & Engineering",
-        "org_url": "https://pes.edu/",
-        "location": "Bengaluru, KA, IN",
-        "years": "Aug '15 - Jul '19",
+        "company": "COEP Technological University",
+        "title": "Bachelor of Technology, Information Technology",
+        "org_url": "https://www.coep.org.in/",
+        "location": "Pune, MH, IN",
+        "years": "Aug '16 - Jul '20",
         "mainTech": [
-          "GPA: 9.03/10.0"
+          "GPA: 8.16/10.0"
         ],
         "technologies": [
           "OOPS Concepts",
           "Machine Learning",
-          "NLP",
+          "Deep Learning",
           "DBMS",
-          "Data Science - Specialization",
+          "Data Mining",
           "Python",
-          "C",
-          "MPCA"
+          "C"
         ],
-        "logo_url": "images/logos/pesu.png",
-        "gpa": "9.03",
+        "logo_url": "images/logos/coep.png",
+        "gpa": "8.16",
         "gpaMax": "10.0",
         "description": "Where it all began — a rigorous program that instilled a deep understanding of computer science fundamentals, programming, and system design, setting a solid foundation for my career.",
-        "relevantCourses": ["Data Structures","Design & Analysis of Algorithms","Natural Language Processing","Object Oriented Modeling & Design","Advanced ML","Advanced DBMS","Unix System Programming","Computer Networks", "Programming with C & Python"],
+        "relevantCourses": ["Data Structures and Algorithm" ,"Design & Analysis of Algorithms","Object Oriented Modeling & Design","DBMS","Advanced DBMS","System Programming and Operating Systems","Computer Networks", "Distributed Systems"],
         "highlights": [
           {
             "date": "2017-2018",

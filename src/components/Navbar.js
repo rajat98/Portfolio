@@ -5,7 +5,7 @@ import Container from "react-bootstrap/Container";
 import logo from "../Assets/logo.png";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
-import {CgGitFork, CgWorkAlt} from "react-icons/cg";
+import {CgGitFork, CgNotes, CgWorkAlt} from "react-icons/cg";
 import { ImBlog } from "react-icons/im";
 import {
   AiFillStar,
@@ -67,6 +67,16 @@ function NavBar() {
                 onClick={() => updateExpanded(false)}
               >
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
+                  as={Link}
+                  to="/academicBackground"
+                  onClick={() => updateExpanded(false)}
+              >
+                <CgNotes style={{ marginBottom: "2px" }} /> Education
               </Nav.Link>
             </Nav.Item>
 
