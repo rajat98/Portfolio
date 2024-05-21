@@ -129,22 +129,14 @@
           "Multimedia and Web Databases"
         ],
         "logo_url": "images/logos/asu.png",
-        "gpa": "3.87",
+        "gpa": "4.0",
         "gpaMax": "4.0",
         "description": "Advanced my expertise in software engineering with a focus on practical and theoretical aspects of the software development life cycle, culminating in a transformative educational experience that honed my technical, collaborative and problem-solving skills.",
         "relevantCourses": ["Distributed Systems", "Cloud Computing", "Data Visualisations", "Multimedia and Web Databases"],
         "highlights": [
           {
-            "date": "2024",
-            "description": "Led the scrum-based development of a cloud-based SaaS solution from scratch to deployment on AWS, making it accessible to users over the internet. Game Night Recommender tool was nominated for the ASU Innovation Showcase event."
-          },
-          {
-            "date": "2024",
-            "description": "Supported student learning as a Grading Specialist and Online Facilitator for a CSE course by assessing assignments, engaging in discussion forums, troubleshooting software, and holding weekly office hours for personalized guidance."
-          },
-          {
-            "date": "2023",
-            "description": "Established a new chapter of GDSC (Google Developer Student Clubs) at the Polytechnic campus to engage students interested in Google technology and Software Development with workshops and projects."
+            "date": "2024-Present",
+            "description": "Grader IFT 166: Intro to Internet Networking, ASU - Supported student learning as a Grading Specialist and Online Facilitator for an IT course by assessing assignments, engaging in discussion forums, troubleshooting software, and holding weekly office hours for personalized guidance."
           }
         ]
       },
@@ -173,16 +165,16 @@
         "relevantCourses": ["Data Structures and Algorithm" ,"Design & Analysis of Algorithms","Object Oriented Modeling & Design","DBMS","Advanced DBMS","System Programming and Operating Systems","Computer Networks", "Distributed Systems"],
         "highlights": [
           {
-            "date": "2017-2018",
-            "description": "Awarded the Prof. CNR Rao Merit Seholarship for claiming a spot in the top 20% performers in the CS Department."
+            "date": "2020",
+            "description": "Driver Distraction Identification Using Convolutional Neural Network, IJMER",
+            "link": "https://ijmer.in/issues/volume9/volume9-issue6(1).aspx",
+            "linkText": "(link)"
           },
           {
-            "date": "2016-2018",
-            "description": "Secured a patent for a low-cost portable fetal health monitoring device, developed with a team of 5 students, while serving as a Research Assistant at the Cloud Computing & Big Data Research Center on campus."
-          },
-          {
-            "date": "2018",
-            "description": "Won the runner up place at the Cisco Hackathon for ideating and prototyping a winner predicter system for the Indian Premiere League Cricket tournaments."
+            "date": "2023",
+            "description": "Sign Language Conversion using Hand Gesture Recognition in INOCON, IEEE",
+            "link": "https://ieeexplore.ieee.org/document/10101099",
+            "linkText": "(link)"
           }
         ]
       }

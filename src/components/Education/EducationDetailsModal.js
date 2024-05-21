@@ -1,5 +1,6 @@
 import React from "react";
 import {Badge, Col, Container, Modal, Row} from "react-bootstrap";
+import {deepPurple} from "@material-ui/core/colors";
 
 const ExperienceDetailsModal = ({ show, onHide, data }) => {
 
@@ -101,7 +102,10 @@ const ExperienceDetailsModal = ({ show, onHide, data }) => {
                                             <Badge pill className="experience-badge me-2 mb-2" style={{backgroundColor:"#C770F0FF", margin: "1px"}} bg={"#C770F0FF"}>
                                                 {highlight.date}
                                             </Badge>
-                                            <span className="modal-description">{highlight.description}</span>
+                                            <span className="modal-description">{highlight.description}&nbsp;</span>
+                                            {highlight.link && (
+                                            <a style={{color: deepPurple["500"]}} href={highlight.link}> {highlight.linkText}</a>)
+                                        }
                                         </li>
                                     ))}
                                 </ul>
