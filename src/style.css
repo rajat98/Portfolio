@@ -773,3 +773,7 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.timeline-element-hover {
+  cursor: pointer;
+}

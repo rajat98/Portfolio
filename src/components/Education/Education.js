@@ -37,7 +37,7 @@ const Education = ({educationDegrees, resumeBasicInfo}) => {
 
             return (
                 <VerticalTimelineElement
-                    className="vertical-timeline-element--work"
+                    className="vertical-timeline-element--work timeline-element-hover"
                     date={work.years}
                     iconStyle={{
                         background: "#C770F0FF",
