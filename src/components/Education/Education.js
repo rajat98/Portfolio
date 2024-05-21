@@ -79,8 +79,8 @@ const Education = ({educationDegrees, resumeBasicInfo}) => {
         <section id="education" className="pb-5">
             <div className="col-md-12 mx-auto">
                 <div className="col-md-12">
-                    <h1 className="section-title" style={{color: "black"}}>
-              <span className="text-white" style={{textAlign: "center"}}>
+                    <h1 className="section-title" style={{ color: "black", textAlign: "center" }}>
+              <span className="text-white" >
                 {sectionName}
               </span>
                     </h1>
